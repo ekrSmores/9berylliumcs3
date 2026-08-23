@@ -17,3 +17,36 @@ For each sub-problem, apply CT skills:
 2.Manual cashier | Algorithm Design | Create a Cash register system that calcutes the sum and change automatically.
 3.Lacks Inventory Tracking | Algorithm design | Creates a simple tracker of the current inventory and alerts if one product is running out by going lower than a certain number.
 4.Crowded lines | Decomposition | Divides the line into seperate divisions:Order,Pay,Pick Up
+
+Pseudocode:
+For Manual register:
+START
+    LET totalBill = 0
+    
+    FOR each item ordered
+        INPUT itemPrice
+        totalBill = totalBill + itemPrice
+    END LOOP
+    
+    DISPLAY totalBill
+    INPUT amountPaid
+    
+    change = amountPaid - totalBill
+    DISPLAY change
+END
+FOR INVENTORY TRACKER: 
+START
+    INPUT foodName
+    INPUT stockCount
+
+
+    WHILE item is sold
+        stockCount = stockCount - 1
+        DISPLAY foodName + "SOLD"
+        
+        
+        IF stockCount <= 5 THEN
+            DISPLAY "ALERT: " + foodName + "is Low supply"
+        END IF
+    END LOOP
+END

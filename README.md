@@ -1,14 +1,17 @@
-README.MD
-Eldior Kieve R. Mores
-9-Berrylium
-Aura
+# Computer Science 3 Portfolio
+## Student Information
+**Name:** Eldior Kieve R. Mores
+**Section:** Beryllium
+**School Year:** 2026-2027
 
 ## Quarter 1 Activities
-Chinese Zodiac-
-https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/zodiacBeryllium_Mores.py
+### Chinese Zodiac
+[View my Chinese zodia]
+(https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/zodiacBeryllium_Mores.py)
 
-CT skills-
-https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md
+### Computational Thinking
+[View my Computational Thinking Exercise](
+https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md)
 
 [ILA 3-1: Applying the Four Pillars of OOP]
-https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ila_oop.md
+(https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ila_oop.md)

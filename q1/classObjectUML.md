@@ -13,7 +13,7 @@
 | Rotate | The way the planet spins on its axis|
 | Revolve | The way the planet revolves around its star.|
 ## Class Diagram
-![Class Diagram](images/1.png)
+![Class Diagram](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/images/1.png)
 ## Design Explanation
 ### Why did you choose this class?
 I chose this class because it is where im most interested at, astronomy. It would act as a contribution to my love in sciences and astronomy

@@ -2,6 +2,8 @@
 | Revolve | The way the planet revolves around its star.|
                      |
 | AtmosphereChange | The planet's Atmosphere changes.|
+
+++ | MoonCount | A moon could crash with the planet which still could create more smaller moons or none whatsoever |
 ------------------------------------------------------
 # SG4 - Understanding Classes and Objects
 ## Planets

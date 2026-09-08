@@ -15,5 +15,9 @@ https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md)
 ### OOP
 [ILA 3-1: Applying the Four Pillars of OOP](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ila_oop.md)
 
-### UML
+### OOPACT
 [OOPACT](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/classObjectUML.md)
+
+## OOPACT[II]
+[classImplementation](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/classImplementation.py)
+[classAttributesMethods](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/classAttributesMethods.md)

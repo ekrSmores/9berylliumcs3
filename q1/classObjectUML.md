@@ -1,5 +1,7 @@
 ## Design Revision
-No major changes were needed from my original design.
+| Revolve | The way the planet revolves around its star.|
+                     |
+| AtmosphereChange | The planet's Atmosphere changes.|
 ------------------------------------------------------
 # SG4 - Understanding Classes and Objects
 ## Planets
@@ -14,7 +16,7 @@ No major changes were needed from my original design.
 ## Methods
 | Method | Description |
 | Rotate | The way the planet spins on its axis|
-| Revolve | The way the planet revolves around its star.|
+| AtmosphereChange | The planet's Atmosphere changes.|
 | MoonCount | A moon could crash with the planet which still could create more smaller moons or none whatsoever |
 ## Attribute Changes
 | Attribute | Data Type | Visibility | Reason |

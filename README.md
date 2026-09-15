@@ -21,3 +21,6 @@ https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md)
 ## OOPACT[II]
 [classImplementation](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/classImplementation.py)
 [classAttributesMethods](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/classAttributesMethods.md)
+## OOPACT[III]
+[classRelationships]()
+[classRelationshipsPY]()

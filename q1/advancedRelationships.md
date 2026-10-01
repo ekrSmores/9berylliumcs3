@@ -6,7 +6,7 @@
 ## Inheritance Relationship
 Parent:Planets
 Child:GasGiant
-Explanation:
+Explanation: Planets have different types including Dwarf Planet, Ice giant, and Gas giants; These certain types of planets have distinct properties.
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation

@@ -28,6 +28,6 @@ https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md)
 [advancedRelationships](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/advancedRelationships.md)
 [advancedRelationshipsPY](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/advancedRelationships.py)
 ## OOPACT[IV]
-[Encapsulation]([https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/advancedRelationships.py](https://github.com/ekrSmores/9berylliumcs3/blob/main/q2/sg8_encapsulation.py))
+[Encapsulation](https://github.com/ekrSmores/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)
 
 

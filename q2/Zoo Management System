@@ -1,0 +1,48 @@
+class Animal:
+    def __init__(self, name):
+        self.name = name
+  
+    def eat(self):
+        return f"{self.name} eats food."
+        
+    def speak(self):
+        return f"{self.name} makes an animal sound."
+      
+
+class Lion(Animal):
+    def eat(self):
+        return f"{self.name} eats fresh meat."
+        
+    def speak(self):
+        return f"{self.name} roars!"
+      
+      
+class Elephant(Animal):
+    def eat(self):
+        return f"{self.name} eats grass and fruit."
+        
+    def speak(self):
+        return f"{self.name} trumpets"      
+      
+      
+class Monkey(Animal):
+    def eat(self):
+        return f"{self.name} eats banana."
+        
+    def speak(self):
+        return f"{self.name} chatters!"
+
+#Variables
+lion = Lion("Pogi")
+elephant = Elephant("Dumbell")
+monkey = Monkey("George")
+
+#Tests the output
+print(lion.speak()) 
+print(lion.eat())    
+print("______________________________")
+print(monkey.speak()) 
+print(monkey.eat())  
+print("______________________________")
+print(elephant.speak()) 
+print(elephant.eat())  

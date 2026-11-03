@@ -27,7 +27,13 @@ https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/ctskillsberrylium.md)
 ## OOPACT[IV]
 [advancedRelationships](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/advancedRelationships.md)
 [advancedRelationshipsPY](https://github.com/ekrSmores/9berylliumcs3/blob/main/q1/advancedRelationships.py)
+
+
+## Quarter 2 Activities
+
 ## OOPACT[IV]
 [Encapsulation](https://github.com/ekrSmores/9berylliumcs3/blob/main/q2/sg8_encapsulation.py)
-
-
+## Inheritance
+[SG9](https://github.com/ekrSmores/9berylliumcs3/blob/main/q2/Sg9_Inheritance.py)
+## Zoo Management
+[Zoo Management System](https://github.com/ekrSmores/9berylliumcs3/blob/main/q2/Zoo%20Management%20System)
